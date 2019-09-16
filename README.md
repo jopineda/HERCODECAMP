@@ -8,7 +8,7 @@ HER CODE CAMP is a free coding camp for senior highschool students who identify 
 We created introduction to python workshops suited for beginner programmers.
 A free, open-source, coding camp for high school students who identify as female, trans, or non-binary
 
-Interactive Notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jopineda/HERCODECAMP/7027ac7ac078358ad23a6834dac8b04e33469e68)
+**Interactive Notebooks**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jopineda/HERCODECAMP/7027ac7ac078358ad23a6834dac8b04e33469e68)
 
 ## Running Jupyter notebooks at home:
 The notebooks we did at the workshop will always be available here. You can always click on the "Launch Binder" button on this webpage. 
@@ -47,4 +47,4 @@ Here are some links to tutorials you can follow to learn more python
 ## Acknowledgements
 We developed our Intro to Python workshop based on material from [Software Carpentry](http://swcarpentry.github.io/python-novice-gapminder/), [Let's Learn Python](http://www.letslearnpython.com/learn/), and [The Coding Hive](https://www.thecodinghive.com/).
 
-Notebooks from Day 2 are generously provided by [The Coding Hive](https://www.thecodinghive.com/) under an **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.**
+Notebooks from Day 2 are generously provided by [**The Coding Hive**](https://www.thecodinghive.com/) under an **Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.**
