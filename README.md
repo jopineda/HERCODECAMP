@@ -46,3 +46,5 @@ Here are some links to tutorials you can follow to learn more python
 
 ## Acknowledgements
 We developed our Intro to Python workshop based on material from [Software Carpentry](http://swcarpentry.github.io/python-novice-gapminder/), [Let's Learn Python](http://www.letslearnpython.com/learn/), and [The Coding Hive](https://www.thecodinghive.com/).
+
+Notebooks from Day 2 are generously provided by [The Coding Hive](https://www.thecodinghive.com/) under an Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
