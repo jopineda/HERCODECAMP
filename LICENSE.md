@@ -1,6 +1,6 @@
 ## Instructional Material
 
-Notebooks from Day 1 (as marked) are provided by HER CODE CAMP. Notebooks from Day 2 (as marked) and provided by [The Coding Hive](https://www.thecodinghive.com/). All notebooks are provided under an [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license:
+Notebooks from Day 1 (as marked) are provided by **HER CODE CAMP**. Notebooks from Day 2 (as marked) and provided by [**The Coding Hive**](https://www.thecodinghive.com/). All notebooks are provided under an [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license:
 
 ## Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). [Disclaimer.](https://creativecommons.org/licenses/by-nc-sa/4.0/#)
